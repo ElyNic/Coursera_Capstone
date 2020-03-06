@@ -122,7 +122,7 @@ dd1
 # In[52]:
 
 
-dd.shape
+dd1.shape
 
 
 # In[ ]:
